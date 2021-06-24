@@ -10,7 +10,7 @@ Based on the launch date, number of campaigns which have been successful, failed
 The filter conditions should be checked to the desired values to get the accurate results.
 
 ### Screenshot of the Analysis based on Launch Date:
- ![](Launchdate screenshot.png)
+https://github.com/IswaryaChidambaram/kickstarter-analysis/blob/main/Launchdate%20screenshot.png
 
 ## Analysis based on Goals:
 Baesd on the goal amount, number of campaigns which have been successful, failed, cancelled have been calculated. The Total projectsis the sum of the successful, failed, cancelled campaigns.Also the % of all these outcomes has been calculated.COUNTIFS is used to here to calculate the number of campaigns for all the goal amounts in all the outcomes in the"plays" subcategory. A line chart has been created which covers the goals, % successful, % failed, % canceled. We can see that when the goal amount<1000$ , the campaign tends to be the most successful. When the goal amount is more than 40000$, the campaign tends to fail.
