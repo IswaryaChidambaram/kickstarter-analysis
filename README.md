@@ -20,7 +20,7 @@ Baesd on the goal amount, number of campaigns which have been successful, failed
 The wanted columns have to be plotted for the chart. Otherwise the chart will be formed for the entire table which leads to inaccurate values.
 
 ### Screenshot of the Analysis based on Goal:
- ![](Goals screenshot.png)
+ https://github.com/IswaryaChidambaram/kickstarter-analysis/blob/main/Goals%20screenshot.png
 
 ## Results:
 
