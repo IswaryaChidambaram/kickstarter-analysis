@@ -10,7 +10,7 @@ Based on the launch date, number of campaigns which have been successful, failed
 The filter conditions should be checked to the desired values to get the accurate results.
 
 ### Screenshot of the Analysis based on Launch Date:
-https://github.com/IswaryaChidambaram/kickstarter-analysis/blob/main/Launchdate%20screenshot.png
+![Theater Outcomes based on Launch Date](Launchdate%20screenshot.png)
 
 ## Analysis based on Goals:
 Baesd on the goal amount, number of campaigns which have been successful, failed, cancelled have been calculated. The Total projectsis the sum of the successful, failed, cancelled campaigns.Also the % of all these outcomes has been calculated.COUNTIFS is used to here to calculate the number of campaigns for all the goal amounts in all the outcomes in the"plays" subcategory. A line chart has been created which covers the goals, % successful, % failed, % canceled. We can see that when the goal amount<1000$ , the campaign tends to be the most successful. When the goal amount is more than 40000$, the campaign tends to fail.
@@ -20,7 +20,7 @@ Baesd on the goal amount, number of campaigns which have been successful, failed
 The wanted columns have to be plotted for the chart. Otherwise the chart will be formed for the entire table which leads to inaccurate values.
 
 ### Screenshot of the Analysis based on Goal:
- https://github.com/IswaryaChidambaram/kickstarter-analysis/blob/main/Goals%20screenshot.png
+![Outcoms based on Goals](Goals%20screenshot.png)
 
 ## Results:
 
@@ -29,7 +29,7 @@ The wanted columns have to be plotted for the chart. Otherwise the chart will be
 * The summer season looks favourable for the theater campaigns.
 
 ### Based on Goal amount:
-* We can see that when the goal amount<1000$ , the "plays" campaign tends to be the most successful. When the goal amount is more than 40000$, the "plays" campaign tends to fail.
+* We can see that when the goal amount<$1000 , the "plays" campaign tends to be the most successful. When the goal amount is more than $40000, the "plays" campaign tends to fail.
 
 ### Recommendations:
 The dataset doesnt provide the information about what age group  were involved in the different category of campaigns. Having the age group information would be helpful to target better in the setting of goals and the amount received. That will also help to determine which campaign will work in different months.
